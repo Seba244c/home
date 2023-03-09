@@ -1,5 +1,8 @@
 /*
+
 !/.gitignore
-!/.config
 !/.zshrc
+!/.gitconfig
+
+!/.config
 !/.oh-my-zsh
