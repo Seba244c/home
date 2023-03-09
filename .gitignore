@@ -3,6 +3,7 @@
 !/.gitignore
 !/.zshrc
 !/.gitconfig
+#!/.gradle/gradle.properties
 
 !/.config
 !/.oh-my-zsh

@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ExternalSystem.RefreshAllProjects">
+      <i c="1" l="1678378208537" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1678377905504" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1678377203975" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1678377966105" />
+    </e>
+    <e n="com.mallowigi.idea.actions.statusbar.MTAccentAction">
+      <i c="2" l="1678377959786" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTAutoResetNotification$2">
+      <i c="1" l="1678377899654" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$2">
+      <i c="1" l="1678377896310" />
+    </e>
+  </component>
+</application>

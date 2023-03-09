@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ff4081" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="-2657fe0d:186c71dd4ec:-8000" />
+    <option name="version" value="8.4.1" />
+  </component>
+</application>

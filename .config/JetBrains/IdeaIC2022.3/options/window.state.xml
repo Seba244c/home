@@ -1,8 +1,19 @@
 <application>
+  <component name="WindowManager">
+    <frame x="-4" y="0" width="1928" height="1040" extendedState="6" />
+  </component>
   <component name="WindowStateApplicationService">
-    <state x="960" y="453" width="800" height="650" key="WELCOME_SCREEN" timestamp="1678375204409">
+    <state x="743" y="211" width="432" height="482" key="FileChooserDialogImpl" timestamp="1678377224570">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="960" y="453" width="800" height="650" key="WELCOME_SCREEN/0.0.1920.1036" timestamp="1678375204409" />
+    <state x="743" y="211" width="432" height="482" key="FileChooserDialogImpl/0.0.1920.1036" timestamp="1678377224570" />
+    <state x="1419" y="782" width="482" height="177" key="ProcessPopupWindow" timestamp="1678377894421">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="1419" y="782" width="482" height="177" key="ProcessPopupWindow/0.0.1920.1036" timestamp="1678377894421" />
+    <state x="960" y="453" width="800" height="650" key="WELCOME_SCREEN" timestamp="1678377170383">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="960" y="453" width="800" height="650" key="WELCOME_SCREEN/0.0.1920.1036" timestamp="1678377170383" />
   </component>
 </application>

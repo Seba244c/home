@@ -2,24 +2,49 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "MarketplacePluginsSearchHistory": "material",
     "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "material",
+    "android.gradle.sync.needed": "true",
+    "appcds.runOnSecondStart": "IC-223.8836.35-fc66606bda6d2ce6de9d3b5d2b862b4d4d6ad71b0aaf82b1c780a178300312e3",
     "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IC-223.8836.35",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "defaultJdkConfigured": "true",
     "eclipse.projects.detected": "",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "gotit.previous.run": "IC-223.8836.35",
+    "ide.memory.adjusted": "true",
     "input.method.disabler.muted": "true",
-    "previousColorScheme": "_@user_Darcula",
+    "installed.kotlin.plugin.version": "223-1.8.0-release-345-IJ8836.35",
+    "last_opened_file_path": "/usr/lib/jvm/jre-17-openjdk-17.0.6.0.10-1.fc37.x86_64",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "mt.autoReset": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Monokai Pro (Material)",
+    "registry.to.advanced.settings.migration.build": "IC-223.8836.35",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/usr/lib/jvm/jre-17-openjdk-17.0.6.0.10-1.fc37.x86_64",
+      "/run/media/sebsn/T7/Dev/Spellbook"
+    ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
       "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
       "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "FindInPath": 1678377888399
   }
 }]]></component>
 </application>
