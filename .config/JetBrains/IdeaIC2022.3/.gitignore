@@ -1,0 +1,6 @@
+workspace/
+tasks/
+options/actionSummary.xml
+options/features.usage.statistics.xml
+options/recentProjects.xml
+options/window.state.xml
