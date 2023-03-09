@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+
+# Allow configs
+!/JetBrains
+!/nvim
