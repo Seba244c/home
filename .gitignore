@@ -1,4 +1,5 @@
 /*
 !/.gitignore
 !/.config
-!/.bashrc
+!/.zshrc
+!/.oh-my-zsh
