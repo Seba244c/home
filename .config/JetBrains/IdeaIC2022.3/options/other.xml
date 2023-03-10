@@ -3,29 +3,32 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "MarketplacePluginsSearchHistory": "material",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
     "NonModalCommitCustomization.IsApplied": "true",
     "RunOnceActivity.se.text.search": "true",
     "SettingsSearchHistory": "material",
-    "appcds.runOnSecondStart": "IC-223.8836.35-fc66606bda6d2ce6de9d3b5d2b862b4d4d6ad71b0aaf82b1c780a178300312e3",
+    "appcds.runOnSecondStart": "IC-223.8836.41-02cc5c75fba522b54e33abb11739da5e26dd259735e3747840037fc54c7f3b78",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "bundled.plugins.list.saved.version": "IC-223.8836.35",
+    "bundled.plugins.list.saved.version": "IC-223.8836.41",
     "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
     "defaultJdkConfigured": "true",
     "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "2",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "12.0",
-    "gotit.previous.run": "IC-223.8836.35",
+    "gotit.previous.run": "IC-223.8836.41",
     "ide.memory.adjusted": "true",
     "input.method.disabler.muted": "true",
-    "installed.kotlin.plugin.version": "223-1.8.0-release-345-IJ8836.35",
+    "installed.kotlin.plugin.version": "223-1.8.0-release-345-IJ8836.41",
     "last_opened_file_path": "/usr/lib/jvm/jre-17-openjdk-17.0.6.0.10-1.fc37.x86_64",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "mt.autoReset": "true",
     "mt.showStatisticsAgreement": "true",
     "previousColorScheme": "_@user_Monokai Pro (Material)",
-    "registry.to.advanced.settings.migration.build": "IC-223.8836.35",
+    "registry.to.advanced.settings.migration.build": "IC-223.8836.41",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
@@ -41,9 +44,10 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips"><![CDATA[{
-  "shownTips": {
-    "FindInPath": 1678377888399
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;SpeedSearch&quot;: 1678465683521,
+    &quot;FindInPath&quot;: 1678377888399
   }
-}]]></component>
+}</component>
 </application>
