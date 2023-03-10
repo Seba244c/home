@@ -3,4 +3,4 @@
 
 # Allow configs
 !/JetBrains
-!/nvim
+!/nvim/lua/user
