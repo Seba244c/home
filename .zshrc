@@ -113,4 +113,5 @@ export STARL_WINE=/opt/wine-staging/bin
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 path+=('/home/sebsn/.cargo/bin')
+path+=('/home/sebsn/.local/bin')
 export PATH
